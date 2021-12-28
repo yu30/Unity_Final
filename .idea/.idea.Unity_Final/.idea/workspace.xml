@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3bf7c1da-6ee5-441f-9ade-9652cef26fef" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Assets/AnimationControllers/Default_Robot.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AnimationControllers/Default_Robot.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Enemies/Enemy_Default Variant.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Enemies/Enemy_Default Variant.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Spells/Water Swirl Ball.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Spells/Water Swirl Ball.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Spells/Wind Element.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Spells/Wind Element.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Symbols.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Symbols/Earth.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Symbols/Earth.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Symbols/Fire.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Symbols/Fire.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Symbols/WInd.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Symbols/WInd.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Symbols/Water.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Symbols/Water.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/EnemyTestScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/EnemyTestScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/EnemyTestScene.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/EnemyTestScene.unity.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MAP.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MAP.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Main Scene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Main Scene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Main Scene.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Main Scene.unity.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/PvE interaction.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/PvE interaction.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Stage1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Stage1.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Stage1.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Stage1.unity.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Stage2.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Stage2.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Stage2.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Stage2.unity.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Stage3.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Stage3.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Stage3.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Stage3.unity.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/StageSelect Scene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/StageSelect Scene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/StageSelect Scene.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/StageSelect Scene.unity.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Script/Enemy/Enemy_Fighter.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Script/Enemy/Enemy_Fighter.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/BGMController.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/BGMController.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ChangeScene.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ChangeScene.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/EntityStats.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/EntityStats.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MainSceneCanvasController.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MainSceneCanvasController.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerAuraCenter.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerAuraCenter.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/SpellController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/SpellController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/StageSceneCanvasController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/StageSceneCanvasController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/StageSceneCanvasController.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/StageSceneCanvasController.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UIController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/UIController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UIController.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/UIController.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/Setting.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI/Setting.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/back.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI/back.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/close.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI/close.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/exit.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI/exit.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/final_skill.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI/final_skill.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/first.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI/first.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/gray_bg.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI/gray_bg.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/music.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI/music.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/play.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI/play.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/quit.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI/quit.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/resume.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI/resume.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/second.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI/second.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/settings.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI/settings.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/skill_space.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI/skill_space.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/slider_bg.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI/slider_bg.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/slider_fill.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI/slider_fill.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/tab_view.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI/tab_view.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UI/設定.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI/設定.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Wizard Melius/Prefabs/Wizard.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Wizard Melius/Prefabs/Wizard.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="22sDaemtyoqFBWvD1xFe7lfcZoU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="rider.run.widget.enabled.cache" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3bf7c1da-6ee5-441f-9ade-9652cef26fef" name="Changes" comment="" />
+      <created>1640617492342</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1640617492342</updated>
+      <workItem from="1640617496173" duration="6385000" />
+      <workItem from="1640679171319" duration="6858000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
