@@ -70,3 +70,9 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# NO WIZARDS
+/[Aa]ssets/Wizard Melius/*
+/[Aa]ssets/Wizard Melius.meta
+!/[Aa]ssets/Wizard Melius/Prefabs/*
+!/[Aa]ssets/Wizard Melius/Prefabs.meta
